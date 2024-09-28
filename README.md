@@ -27,9 +27,9 @@ This project is a demo application designed for potential clients in the retail 
 
 - *AI and Machine Learning*:
   - Language Models
-
-
-
+## images
+![Sandal Recommendation](screenshots/Screenshot%202024-09-28%20180207.jpg)
+![Shoe Recommendation](screenshots/Screenshot%202024-09-28%20180347.jpg)
 ## Getting Started
 
 To get started with the project, follow the instructions below:
