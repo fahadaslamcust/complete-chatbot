@@ -20,7 +20,7 @@ This project is a demo application designed for potential clients in the retail 
   - NodeJS
   - Express
   - Python
-  - FastAPI/Flask
+  - Flask
 
 - *Database*:
   - Vector DBs
