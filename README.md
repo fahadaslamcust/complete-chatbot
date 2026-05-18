@@ -18,7 +18,6 @@ This project is a demo application designed for potential clients in the retail 
 
 - *Backend*:
   - NodeJS
-  - Express
   - Python
   - Flask
 
